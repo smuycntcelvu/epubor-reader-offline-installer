@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-E--Book+Reader-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Ebook+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Epubor Reader Free Installer** — Epubor Reader is a free e-book reader for Windows and macOS that supports EPUB, MOBI, AZW, AZW3, PDF, and TXT formats. Works without internet access, no account required. Full offline installation.
+**💻 Epubor Reader Free Installer** — Epubor Reader is a free ebook reader for Windows and macOS supporting EPUB, PDF, and MOBI formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Epubor Reader
 
-Epubor Reader is a free e-book reader for Windows and macOS that supports EPUB, MOBI, AZW, AZW3, PDF, and TXT formats. With a clean reading interface, it allows adjustable fonts, backgrounds, and reading modes. Epubor Reader works alongside Epubor's DRM removal tools for managing book libraries from multiple sources including Kindle, Kobo, and Adobe Digital Editions.
+Epubor Reader is a free ebook reader for Windows and macOS supporting EPUB, PDF, and MOBI formats. It provides a clean reading interface with night mode, custom fonts, bookmarks, and highlights — a simple desktop alternative to Calibre's reader.
 
 ---
 
 ## ❌ Problem: Epubor Reader is hard to access
 
-- **Limited Features** — Basic reader without advanced annotation or study tools
-- **DRM Limitation** — Cannot read DRM-protected files without companion DRM tool
-- **Sync Limitations** — No built-in cloud sync for reading progress
-- **Update Frequency** — Updates less frequent than major commercial readers
+- **Limited Format Support** — Does not support all ebook formats; no AZW3 without DRM removal
+- **Basic Features** — Missing advanced features of Calibre or Thorium Reader
+- **Development Activity** — Updates arrive infrequently
+- **Companion to Epubor Suite** — Most useful as part of the Epubor DRM removal and conversion workflow
 
 ---
 
@@ -121,7 +121,7 @@ Epubor Reader is a free e-book reader for Windows and macOS that supports EPUB, 
 
 ---
 
-**Epubor Reader Free Installer** — Epubor Reader is a free e-book reader for Windows and macOS that supports EPUB, MOBI, AZW, AZW3, PDF, and TXT formats. Install without internet connection today!
+**Epubor Reader Free Installer** — Epubor Reader is a free ebook reader for Windows and macOS supporting EPUB, PDF, and MOBI formats. Install without internet connection today!
 
 <div align="center">
 
